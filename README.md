@@ -2,6 +2,8 @@
 
 <h2>AboutMe( )</h2>
 
+  💻 Work at <a target="_blank" href="https://thewhite.ru/">TheWhite</a>
+      
   🎓 <a target="_blank" href="https://www.dvgups.ru/">FESTU</a> student
   
   💻 <b>.NET Backend</b> developer
@@ -26,22 +28,27 @@
              width=60px height=30px
              alt="git">
     </a>
-    <a arget="_blank" href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+    <a target="_blank" href="https://docs.microsoft.com/en-us/dotnet/csharp/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"
              width=60px height=30px
              alt="C#"/>
     </a>
-    <a arget="_blank" href="https://www.mysql.com/">
+    <a target="_blank" href="https://reactjs.org/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
+             width=60px height=30px
+             alt="React"/>
+    </a>
+    <a target="_blank" href="https://www.mysql.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
              width=60px height=30px
              alt="SQL">
     </a>
-    <a arget="_blank" href="https://www.java.com/en/">
+    <a target="_blank" href="https://www.java.com/en/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
              width=60px height=30px
              alt="Java">
     </a>
-    <a arget="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
              width=60px height=30px
              lt="HTML">
