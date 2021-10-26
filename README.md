@@ -17,7 +17,7 @@
 
   💬 You can ask me anything, I'm happy to help
   
-  💼 Open for <i>job offers</i>
+  <!--💼 Open for <i>job offers</i>-->
   
   📧 Reach me through <a href="https://t.me/FedorIshchenko18">Telegram</a> or <a
                   href="mailto:Fedor.Ishchenko18@gmail.com">Email</a>
